@@ -7,3 +7,4 @@
 
 issue-guide.md-> 이슈 작업 선점 규정 및 협업 가이드 
 csharp-setup.md-> .NET 설치 및 C# 프로젝트 구성 기본 가이드 
+WSL2, Ubuntu, Docker - setup.md-> Windows에서 WSL2·Ubuntu·Docker를 설치하고 구동하는 방법을 정리한 환경 구축 가이드입니다.
